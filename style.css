@@ -1,0 +1,142 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+
+
+h1 {
+    font-size: 50px;
+    margin: 0;
+    padding-top: 100px;
+    font-family: 'Yeseva One', cursive;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: 'Yeseva One', cursive;
+}
+
+.header {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-image: url(images/donation7.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+
+}
+
+.btn-orange {
+    color: #fff;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.amount {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.amount h3 {
+    padding: 20px 30px;
+    margin: 5px;
+    background-color: rgba(238, 238, 238, 0.73)
+}
+
+.active {
+    color: #FF5959;
+    border: 1px solid #FF5959;
+}
+
+.donate-plan {
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 80%;
+    text-align: left;
+}
+
+.donate-title {
+    text-align: center;
+}
+
+.plan {
+    padding: 20px;
+    background-color: gainsboro;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.food img {
+    width: 50%;
+}
+
+.food-bg {
+    background-color: #4f9da623;
+}
+
+.shelter-bg {
+    background-color: #ff595929;
+}
+
+.education-bg {
+    background-color: #fff4d697;
+}
+
+.header1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    width: 80%;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.image-part {
+    width: 50%;
+    margin-right: 50px;
+}
+
+.image-part img {
+    width: 100%;
+}
+
+.text-part {
+    width: 50%;
+    padding-right: 100px;
+    text-align: justify;
+}
+
+footer {
+    background-color: black;
+    font-family: 'Yeseva One';
+    text-align: center;
+    color: white;
+    padding: 30px 0;
+}
+
+form {
+    background-color: rgba(228, 117, 52, 0.161);
+    padding: 30px 0;
+}
+
+input {
+    padding: 10px;
+    background-color: rgb(237, 228, 228);
+    font-size: 13px;
+
+}
+
+footer h2 {
+    color: tomato;
+}
